@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="header.png" alt="header" width="100%">
+  <img src="header2.png" alt="header" width="100%">
 </p>
 
 <!-- TITLE -->
