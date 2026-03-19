@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="header" width="100%">
+  <img src="1.png" alt="header" width="100%">
 </p>
 
 <!-- TITLE -->
