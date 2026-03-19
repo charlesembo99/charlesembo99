@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="1.png" alt="header" width="100%">
+  <img src="header.png" alt="header" width="100%">
 </p>
 
 <!-- TITLE -->
@@ -59,7 +59,9 @@
 <a href="mailto:charlesembo99@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF6A00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://wa.me/254725121107">
+  <img src="https://img.shields.io/badge/WhatsApp-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
 </p>
 
 ---
